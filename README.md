@@ -42,7 +42,7 @@
 7. **run_kubernates.sh** Pulls the docker image and creates deployment.
 8. **make_prediction_k8s.sh** Tests kubernetes cluster connecting with port 8001
 9. **docker_out.txt** Output of terminal while running docker
-10.**kubernetes_out.txt** Output of terminal while running kubernetes
+10. **kubernetes_out.txt** Output of terminal while running kubernetes
 11. **.circleci/config.yml** Circle Ci configuration mentioning steps to lint and build the project
 
 # DEPENDENCIES:
