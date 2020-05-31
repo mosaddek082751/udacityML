@@ -1,7 +1,8 @@
 [![CircleCI](https://circleci.com/gh/mosaddek082751/udacityML.svg?style=svg)](https://circleci.com/gh/mosaddek082751/udacityML)
 
-**STEPS:**
-Create a virtualenv and activate it.
+# STEPS:
+
+## Create a virtualenv and activate it.
 
 python3 -m venv ~/.devops
 source ~/.devops/bin/activate
@@ -53,11 +54,13 @@ kubernetes_out.txt Output of terminal while running kubernetes
 
 .circleci/config.yml Circle Ci configuration mentioning steps to lint and build the project
 
-**DEPENDENCIES:**
+# DEPENDENCIES:
+
 Did the project in AWS EC2. Used Amazon Linux 2.
-Docker
-Python3
-pip3
-Linuxbrew for simplified installation
-Kubectl
-Minikube
+
+[1] Docker
+[2] Python3
+[3] pip3
+[5] Linuxbrew for simplified installation
+[6] Kubectl
+[7] Minikube
