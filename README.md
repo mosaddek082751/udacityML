@@ -4,7 +4,7 @@
 This is the 2nd project of Udacity Nanodegree of Cloud Engineer which I did. Here I build a kubernetes cluster where a machine learning model will run. An API is exposed which takes input of different property of house and predict the house price.
 
 **Git Repo:** https://github.com/mosaddek082751/udacityML
-**Circle CI:** 
+ 
 # STEPS:
 
 ### Create a virtualenv and activate it.
