@@ -1,6 +1,6 @@
 [![CircleCI](https://circleci.com/gh/mosaddek082751/udacityML.svg?style=svg)](https://circleci.com/gh/mosaddek082751/udacityML)
 
-**STEPS:
+**STEPS:**
 Create a virtualenv and activate it.
 
 python3 -m venv ~/.devops
@@ -30,7 +30,7 @@ Adding Circle CI
 
 Open an account in Circle CI and include the github project.
 
-**FILES:
+**FILES:**
 makefile Setup instruction of python environment and lint.
 
 app.py Python code which we will run.
@@ -53,7 +53,7 @@ kubernetes_out.txt Output of terminal while running kubernetes
 
 .circleci/config.yml Circle Ci configuration mentioning steps to lint and build the project
 
-**DEPENDENCIES:
+**DEPENDENCIES:**
 Did the project in AWS EC2. Used Amazon Linux 2.
 Docker
 Python3
