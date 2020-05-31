@@ -1,6 +1,6 @@
 [![CircleCI](https://circleci.com/gh/mosaddek082751/udacityML.svg?style=svg)](https://circleci.com/gh/mosaddek082751/udacityML)
 
-STEPS:
+#STEPS:
 Create a virtualenv and activate it.
 
 python3 -m venv ~/.devops
