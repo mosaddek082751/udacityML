@@ -2,14 +2,14 @@
 
 # STEPS:
 
-## Create a virtualenv and activate it.
+### Create a virtualenv and activate it.
 
-python3 -m venv ~/.devops
-source ~/.devops/bin/activate
-Install necessary dependencies with Makefile
+  - python3 -m venv ~/.devops
+  - source ~/.devops/bin/activate
+  - Install necessary dependencies with Makefile
 
-make install
-Check the python app first. It should be working.
+### make install
+  - Check the python app first. It should be working.
 
 python3 app.py
 Run the Python app in Docker
